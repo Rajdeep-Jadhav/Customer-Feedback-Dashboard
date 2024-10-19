@@ -24,7 +24,7 @@ The dashboard visualizes the following metrics:
 - **Source Count**: Lists the number of feedback entries from different sources.
 - **Source by Month**: Breaks down feedback count by source and quarter.
 <p align="center">
-  <img src="Final%20Dashboard.png" alt="Customer Feedback Dashboard" width="20%">
+  <img src="Dashboard.png" alt="Customer Feedback Dashboard" width="20%">
 </p>
 
 
