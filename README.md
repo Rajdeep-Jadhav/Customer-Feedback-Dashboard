@@ -23,7 +23,9 @@ The dashboard visualizes the following metrics:
 - **Feedback Segmentation**: Divides customers into promoters, passives, and detractors.
 - **Source Count**: Lists the number of feedback entries from different sources.
 - **Source by Month**: Breaks down feedback count by source and quarter.
-![Customer Feedback Dashboard](Dashboard.png)
+<p align="center">
+  <img src="Final%20Dashboard.png" alt="Customer Feedback Dashboard" width="20%">
+</p>
 
 
 ## Files Included
