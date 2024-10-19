@@ -23,6 +23,8 @@ The dashboard visualizes the following metrics:
 - **Feedback Segmentation**: Divides customers into promoters, passives, and detractors.
 - **Source Count**: Lists the number of feedback entries from different sources.
 - **Source by Month**: Breaks down feedback count by source and quarter.
+![Customer Feedback Dashboard](Dashboard.png)
+
 
 ## Files Included
 - **`Final Dashboard.pbix`**: The Power BI file containing the dashboard.
