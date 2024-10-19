@@ -10,8 +10,8 @@ This repository contains a Power BI project for a **Customer Feedback Dashboard*
 - [Prerequisites](#prerequisites)
 - [Dashboard Sections](#dashboard-sections)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
 
+  
 ## Overview
 
 The dashboard visualizes the following metrics:
@@ -54,5 +54,3 @@ The dashboard visualizes the following metrics:
 ## Acknowledgments
 - Created by **Rajdeep Jadhav** as a Power BI project.
 
-## License
-This project is licensed under the MIT License.
